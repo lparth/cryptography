@@ -86,7 +86,7 @@ mypy-extensions==1.0.0
     # via
     #   black
     #   mypy
-packaging==23.0; python_version >= "3.7"
+packaging==23.1; python_version >= "3.7"
     # via
     #   black
     #   build
