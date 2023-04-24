@@ -170,7 +170,7 @@ snowballstemmer==2.2.0
     # via sphinx
 sortedcontainers==2.4.0
     # via hypothesis
-sphinx==6.1.3
+sphinx==6.2.0
     # via
     #   cryptography (setup.cfg)
     #   sphinx-rtd-theme
