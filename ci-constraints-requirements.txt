@@ -156,7 +156,7 @@ requests==2.28.2; python_version >= "3.7"
     #   requests-toolbelt
     #   sphinx
     #   twine
-requests-toolbelt==0.10.1
+requests-toolbelt==1.0.0
     # via twine
 rfc3986==2.0.0
     # via twine
