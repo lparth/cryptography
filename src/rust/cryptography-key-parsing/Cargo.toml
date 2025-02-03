@@ -10,7 +10,7 @@ rust-version.workspace = true
 asn1.workspace = true
 cfg-if = "1"
 openssl = "0.10.68"
-openssl-sys = "0.9.104"
+openssl-sys = "0.9.105"
 cryptography-x509 = { path = "../cryptography-x509" }
 
 [lints.rust]
